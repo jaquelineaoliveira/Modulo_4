@@ -1,0 +1,10 @@
+{
+     
+    "user": {
+        "email": "agilizei-rwc@mail.com",
+        "username": "Jaque Jaque",
+        "bio": null,
+        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFnaWxpemVpLXJ3Y0BtYWlsLmNvbSIsInVzZXJuYW1lIjoiYWFzYWRzIiwiYmlvIjpudWxsLCJpbWFnZSI6Imh0dHBzOi8vYXBpLnJlYWx3b3JsZC5pby9pbWFnZXMvc21pbGV5LWN5cnVzLmpwZWciLCJpYXQiOjE2MzkzOTM3MzAsImV4cCI6MTY0NDU3NzczMH0.Hwq5Vprxc8vL5IKyKsN_ZI3yvV2Qy0k_JshpMJdN6R0"
+    }
+}

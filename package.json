@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cypress": "^9.0.0"
+  },
+  "name": "modulo_4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run",
+    "lint": "eslint --fix '**/*.js"
+  },
+  "author": "Jaqueline Oliveira",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-chai-friendly": "^0.7.2",
+    "eslint-plugin-cypress": "^2.12.1",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0"
+  }
+}
